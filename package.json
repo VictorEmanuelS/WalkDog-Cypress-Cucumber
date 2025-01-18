@@ -1,0 +1,15 @@
+{
+  "devDependencies": {
+    "@badeball/cypress-cucumber-preprocessor": "^21.0.3",
+    "@bahmutov/cypress-esbuild-preprocessor": "^2.2.4",
+    "@cucumber/cucumber": "^11.2.0",
+    "@faker-js/faker": "^9.4.0",
+    "cpf-cnpj-validator": "^1.0.3",
+    "cypress": "^13.0.0",
+    "cypress-cucumber-preprocessor": "^4.3.1"
+  },
+  "dependencies": {
+    "faker": "^6.6.6",
+    "faker-br": "^0.4.1"
+  }
+}
