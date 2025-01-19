@@ -13,6 +13,8 @@ export class registersignup {
         cy.get(register.email).type(randomemail);
         cy.get(register.cpf).type(randomCPF);
         cy.get(register.cep).type(randomcep);
+        cy.get(register.bottom).click();
+        cy.contains(register.active).shoud('be.visible').click();
     }
 }
 
