@@ -3,5 +3,6 @@ export const element = {
     clickdog: "a",
     visit: "/",
     registerdog: "Faça seu cadastro",
-    signup: "https://walkdog.vercel.app/signup"
+    signup: "https://walkdog.vercel.app/signup",
+    visto: "be.visible",
 }
