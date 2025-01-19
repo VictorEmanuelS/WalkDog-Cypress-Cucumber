@@ -6,7 +6,8 @@
     "@faker-js/faker": "^9.4.0",
     "cpf-cnpj-validator": "^1.0.3",
     "cypress": "^13.0.0",
-    "cypress-cucumber-preprocessor": "^4.3.1"
+    "cypress-cucumber-preprocessor": "^4.3.1",
+    "cypress-file-upload": "^5.0.8"
   },
   "dependencies": {
     "faker": "^6.6.6",

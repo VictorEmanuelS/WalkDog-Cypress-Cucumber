@@ -6,7 +6,7 @@ beforeEach("visitar site", () => {
 })
 export class walkdog {
     walkmans() {
-        cy.contains(elem.whydog).should('be.visible');
+        cy.contains(elem.whydog).should(elem.visto);
     }
 
     clickbottom() {
@@ -16,7 +16,7 @@ export class walkdog {
         cy.url("eq", elem.signup);
     }
     registerwalkdog() {
-        cy.contains(elem.registerdog).should('be.visible');
+        cy.contains(elem.registerdog).should(elem.visto);
     }
 }
 
