@@ -19,3 +19,6 @@
 
 ### Comando para rodar o Cypress via Linha de Comando 
     npx cypress run 
+    
+## Motivo da Criação deste Código
+Este código foi desenvolvido com o objetivo de aprimorar ainda mais a qualidade e a eficiência na criação de cenários de testes automatizados. Além disso, espero que ele possa ser útil para outras pessoas. Caso alguém precise de um modelo de referência, este código estará disponível para servir como base ou inspiração
