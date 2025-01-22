@@ -13,7 +13,7 @@ export class walkdog {
         cy.get(elem.clickdog).click();
     }
     urlsignup() {
-        cy.url("eq", elem.signup);
+        cy.url().should(elem.caminho, elem.signup);
     }
     registerwalkdog() {
         cy.contains(elem.registerdog).should(elem.visto);

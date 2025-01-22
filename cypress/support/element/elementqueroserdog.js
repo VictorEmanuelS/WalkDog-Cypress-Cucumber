@@ -5,4 +5,5 @@ export const element = {
     registerdog: "Faça seu cadastro",
     signup: "https://walkdog.vercel.app/signup",
     visto: "be.visible",
+    caminho: 'eq'
 }
